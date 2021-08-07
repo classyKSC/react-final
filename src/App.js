@@ -19,7 +19,7 @@ function App() {
     !isAuthenticated?(
     <Router>  
       <div className="container">  
-        <nav className="navbar navbar-expand-lg navheader">  
+        <nav className="navbar navbar-expand-sm navbar-dark bg-dark">  
           <div className="collapse navbar-collapse" >  
             <ul className="navbar-nav mr-auto">  
               <li className="nav-item">  
